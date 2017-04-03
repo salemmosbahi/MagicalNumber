@@ -17,6 +17,8 @@ public class MagicalNumber {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        new DisplayMagicalNumber().displayMagicalNumber(4, 23);
+        new DisplayMagicalNumber().displayMagicalNumber(25, -4);
     }
     
 }
